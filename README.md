@@ -1,35 +1,40 @@
+<div align="center">
+
 # ArmmyC
 
-Computer Engineering student at KMUTT.
+**Computer Engineering @ KMUTT**
 
-I build across digital systems, embedded hardware, and AI-powered software.
+Building digital systems, embedded hardware, and AI-powered software.
 
 [LinkedIn](https://www.linkedin.com/in/kamolpopvitayarat/) · [GitHub](https://github.com/ArmmyC)
 
----
+</div>
 
-## Focus
+<br />
 
-- Computer architecture and digital design
-- Embedded systems and robotics
-- AI agents and RAG workflows
-- Full-stack product tools
+## 01 · Focus
 
-## Selected work
+```txt
+computer architecture  /  embedded systems  /  AI agents  /  product tools
+```
 
-| Project | Area | Description |
-| --- | --- | --- |
-| [ArmmyRV32I](https://github.com/ArmmyC/ArmmyRV32I) | Architecture | Single-cycle RV32I processor core |
-| [VeriSAP](https://github.com/ArmmyC/SAP-1-w-Verilog) | Digital design | SAP-1-style 8-bit computer in Verilog |
-| [FahMai Agent](https://github.com/ArmmyC/Enterprise-SQL-RAG-Agent) | AI systems | Guarded SQL/RAG agent |
-| [LantaLLM](https://github.com/ArmmyC/Lanta-LLM-Hosting) | Infrastructure | Private LLM hosting platform |
-| [Yuedmai](https://github.com/ArmmyC/Yuedmai) | Product | Camera-first stretch companion |
-| [GestureArm](https://github.com/ArmmyC/Hand-Gestured-Controlled-Robotic-Arm) | Embedded | ESP32 gesture-controlled robotic arm |
+## 02 · Selected work
 
-## Tools
+| Project | Description |
+| --- | --- |
+| [ArmmyRV32I](https://github.com/ArmmyC/ArmmyRV32I) | Single-cycle RV32I processor core |
+| [VeriSAP](https://github.com/ArmmyC/SAP-1-w-Verilog) | SAP-1-style 8-bit computer in Verilog |
+| [FahMai Agent](https://github.com/ArmmyC/Enterprise-SQL-RAG-Agent) | Guarded SQL/RAG agent |
+| [LantaLLM](https://github.com/ArmmyC/Lanta-LLM-Hosting) | Private LLM hosting platform |
+| [Yuedmai](https://github.com/ArmmyC/Yuedmai) | Camera-first stretch companion |
+| [GestureArm](https://github.com/ArmmyC/Hand-Gestured-Controlled-Robotic-Arm) | ESP32 gesture-controlled robotic arm |
 
-`Python` `C` `C++` `Verilog` `Arduino` `FastAPI` `React` `Docker` `Linux`
+## 03 · Tools
 
-## Direction
+```txt
+Python  C  C++  Verilog  Arduino  FastAPI  React  Docker  Linux
+```
 
-Building from low-level systems toward useful AI products.
+## 04 · Direction
+
+I like building close to the metal, then turning those ideas into useful products.
