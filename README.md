@@ -1,41 +1,71 @@
 <!-- prettier-ignore -->
 <div align="center">
 
-# Hi, I'm Arm
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:0f766e&text=Arm%20%7C%20Computer%20Engineering&fontColor=ffffff&fontSize=34&fontAlignY=36&desc=KMUTT%20student%20building%20from%20silicon%20ideas%20to%20AI%20systems&descAlignY=58&descSize=14" alt="Arm profile banner" />
 
-### Computer Engineering Student at KMUTT
-
-I build across **digital design**, **embedded systems**, **AI agents**, and **full-stack tools**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-ArmmyC-181717?style=flat-square&logo=github)](https://github.com/ArmmyC)
-![KMUTT](https://img.shields.io/badge/KMUTT-Computer%20Engineering-0f766e?style=flat-square)
-![Build](https://img.shields.io/badge/Learning-by%20building-2563eb?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-ArmmyC-181717?style=for-the-badge&logo=github)](https://github.com/ArmmyC)
+![KMUTT](https://img.shields.io/badge/KMUTT-Computer%20Engineering-0f766e?style=for-the-badge)
+![Build](https://img.shields.io/badge/Learning-by%20building-2563eb?style=for-the-badge)
 
 </div>
 
----
-
-## Focus
-
 ```text
-Verilog / RISC-V / SAP-1
-ESP32 / Arduino / robotics
-FastAPI / React / Python
-LLM hosting / SQL-RAG / local AI tools
+$ whoami
+Computer Engineering student at KMUTT
+
+$ focus
+Verilog / RISC-V / SAP-1     ESP32 / Arduino / robotics
+FastAPI / React / Python     LLM hosting / SQL-RAG / local AI
 ```
 
-## Featured work
+## Featured builds
 
-| Project | Focus |
-| --- | --- |
-| [`ArmmyRV32I`](https://github.com/ArmmyC/ArmmyRV32I) | RV32I processor core in Verilog |
-| [`VeriSAP`](https://github.com/ArmmyC/SAP-1-w-Verilog) | SAP-1-style 8-bit computer |
-| [`Yuedmai`](https://github.com/ArmmyC/Yuedmai) | Camera-first stretch companion |
-| [`FahMai Agent`](https://github.com/ArmmyC/Enterprise-SQL-RAG-Agent) | Guarded SQL/RAG agent |
-| [`LantaLLM`](https://github.com/ArmmyC/Lanta-LLM-Hosting) | Private LLM hosting platform |
-| [`GestureArm`](https://github.com/ArmmyC/Hand-Gestured-Controlled-Robotic-Arm) | ESP32 gesture robotic arm |
+<table>
+<tr>
+<td width="50%">
 
-## Stack
+### [`ArmmyRV32I`](https://github.com/ArmmyC/ArmmyRV32I)
+Single-cycle RV32I processor core in Verilog.
+
+</td>
+<td width="50%">
+
+### [`VeriSAP`](https://github.com/ArmmyC/SAP-1-w-Verilog)
+SAP-1-style 8-bit computer with extended arithmetic.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [`Yuedmai`](https://github.com/ArmmyC/Yuedmai)
+Camera-first stretch companion with React and FastAPI.
+
+</td>
+<td width="50%">
+
+### [`FahMai Agent`](https://github.com/ArmmyC/Enterprise-SQL-RAG-Agent)
+Guarded SQL/RAG business-question agent.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [`LantaLLM`](https://github.com/ArmmyC/Lanta-LLM-Hosting)
+Private OpenAI-compatible LLM hosting platform.
+
+</td>
+<td width="50%">
+
+### [`GestureArm`](https://github.com/ArmmyC/Hand-Gestured-Controlled-Robotic-Arm)
+ESP32 gesture-controlled robotic arm.
+
+</td>
+</tr>
+</table>
+
+## Toolbox
 
 <div align="center">
 
@@ -48,12 +78,12 @@ LLM hosting / SQL-RAG / local AI tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmmyC&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
----
+</div>
 
 <div align="center">
 
-**Building from silicon ideas to AI systems.**
+### Build. Test. Document. Improve.
 
 </div>
