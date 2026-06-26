@@ -29,7 +29,3 @@ I build across digital systems, embedded hardware, and AI-powered software.
 ## Tools
 
 `Python` `C` `C++` `Verilog` `Arduino` `FastAPI` `React` `Docker` `Linux`
-
-## Direction
-
-Building from low-level systems toward useful AI products.
