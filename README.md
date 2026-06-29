@@ -15,7 +15,7 @@ I build across digital systems, embedded hardware, and AI-powered software.
 - AI agents and RAG workflows
 - Full-stack product tools
 
-## Selected work
+## Projects
 
 | Project | Area | Description |
 | --- | --- | --- |
