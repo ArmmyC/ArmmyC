@@ -17,14 +17,26 @@ I build across digital systems, embedded hardware, and AI-powered software.
 
 ## Projects
 
-| Project | Area | Description |
-| --- | --- | --- |
-| [ArmmyRV32I](https://github.com/ArmmyC/ArmmyRV32I) | Architecture | Single-cycle RV32I processor core |
-| [VeriSAP](https://github.com/ArmmyC/SAP-1-w-Verilog) | Digital design | SAP-1-style 8-bit computer in Verilog |
-| [FahMai Agent](https://github.com/ArmmyC/Enterprise-SQL-RAG-Agent) | AI systems | Guarded SQL/RAG agent |
-| [LantaLLM](https://github.com/ArmmyC/Lanta-LLM-Hosting) | Infrastructure | Private LLM hosting platform |
-| [Yuedmai](https://github.com/ArmmyC/Yuedmai) | Product | Camera-first stretch companion |
-| [GestureArm](https://github.com/ArmmyC/Hand-Gestured-Controlled-Robotic-Arm) | Embedded | ESP32 gesture-controlled robotic arm |
+### AI & Computer Vision
+
+| Project | Description |
+| --- | --- |
+| [FahMai Agent](https://github.com/ArmmyC/FahMaiAgent) | Guarded SQL/RAG agent |
+| [LantaLLM](https://github.com/ArmmyC/LantaLLM) | Private LLM hosting platform |
+| [YUEDMAI Next](https://github.com/ArmmyC/Yuedmai) | Camera-first stretch companion with pose tracking |
+
+### Robotics & Embedded Systems
+
+| Project | Description |
+| --- | --- |
+| [GestureArm](https://github.com/ArmmyC/GestureArm) | ESP32 gesture-controlled robotic arm |
+
+### Computer Architecture & Digital Design
+
+| Project | Description |
+| --- | --- |
+| [ArmmyRV32I](https://github.com/ArmmyC/ArmmyRV32I) | Single-cycle RV32I processor core |
+| [VeriSAP](https://github.com/ArmmyC/VeriSAP) | SAP-1-style 8-bit computer in Verilog |
 
 ## Tools
 
