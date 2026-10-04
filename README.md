@@ -1,11 +1,8 @@
-# ArmmyC
+# Kamolpop Vitayarat (Arm)
 
-Computer Engineering student at KMUTT.
+Computer Engineering student at KMUTT in Bangkok, building AI infrastructure, DevOps systems, embedded software, and edge AI.
 
-I build across digital systems, embedded hardware, and AI-powered software.
-
-[LinkedIn](https://www.linkedin.com/in/kamolpopvitayarat/) · [GitHub](https://github.com/ArmmyC)
-
+[Portfolio](https://kamolpop.dev/) · [LinkedIn](https://www.linkedin.com/in/kamolpopvitayarat/) · [GitHub](https://github.com/ArmmyC)
 ---
 
 ## Focus
@@ -46,7 +43,7 @@ I build across digital systems, embedded hardware, and AI-powered software.
 
 | Project | Description |
 | --- | --- |
-| [Rally](https://github.com/ArmmyC/Rally) | Bilingual Thailand directory for internships, hackathons, and student opportunities |
+| [KwaHub](https://github.com/ArmmyC/Rally) | Bilingual student-opportunity directory for internships, hackathons, and scholarships in Thailand |
 | [WebPad](https://github.com/ArmmyC/WebPad) | DNS-only control plane for memorable web namespaces and hosting connections |
 | [Portfolio](https://github.com/ArmmyC/Portfolio) | Personal engineering portfolio for AI infrastructure, embedded systems, robotics, and architecture |
 | [SilentTalk](https://github.com/ArmmyC/SilentTalk) | Expo React Native text-to-speech app for composing and highlighting spoken messages |
